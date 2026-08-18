@@ -60,7 +60,7 @@
 		combo_toggleMac {
 			bindings = <&tog 4>;
 			key-positions = <39 40>
-		}
+		};
     };
 };
 
