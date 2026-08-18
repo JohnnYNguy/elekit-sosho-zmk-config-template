@@ -50,14 +50,14 @@
             bindings = <&mkp MCLK>;
         };
 
-		//Enter Combo 38 41
+		//エンターのコンボ 38 41
 		combo_enter {
 			bindings = <&kp ENTER>;
 			key-positions = <38 41>;
 		};
 		
 
-		//Toggle Mac Layer 39 40
+		//マックモードを付けるコンボ 39 40
 		combo_toggleMac {
 			bindings = <&tog 4>;
 			key-positions = <39 40>;
